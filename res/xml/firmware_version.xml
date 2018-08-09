@@ -27,6 +27,15 @@
         android:layout="@layout/voidui_logo"
         android:selectable="false"/>
 
+    <!-- VoidUI version -->
+    <Preference
+        android:key="voidui_release_version"
+        android:title="@string/voidui_release_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:searchable="false"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.VoidUIVersionDetailPreferenceController"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
