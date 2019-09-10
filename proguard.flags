@@ -73,6 +73,7 @@
 
 # Custom rules
 -keep class com.google.** { *; }
+-keep class com.google.android.settings.** { *; }
 -keep class vendor.** { *; }
 -keep class com.android.wsuinterface.** { *; }
 
@@ -82,3 +83,4 @@
 -keep class **.R$* {
     <fields>;
 }
+
