@@ -55,4 +55,8 @@
         android:title="@string/night_display_end_time_title"
         settings:searchable="false"/>
 
+    <com.android.settings.custom.preference.OverlaySwitchPreference
+        android:key="com.android.dark_bg"
+        android:title="@string/black_bg_title"
+        android:summary="@string/black_bg_summary" />
 </PreferenceScreen>
