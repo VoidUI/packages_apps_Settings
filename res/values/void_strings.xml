@@ -64,4 +64,8 @@
     <string name="power_usage_provider_summary">Use battery stats graph and power scheme from Pixel</string>
     <string name="powerusage_provider_google_dialog_title">Changing provider</string>
     <string name="powerusage_provider_google_dialog_message">Please close Setttings from recents and reopen to apply this change</string>
+
+    <!-- Backup Transport selection settings menu and activity title -->
+    <string name="backup_transport_setting_label">Change backup provider</string>
+    <string name="backup_transport_title">Select backup provider</string>
 </resources>
