@@ -105,4 +105,8 @@
     <!-- Data usage info in QS footer -->
     <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
     <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+
+    <!-- Strings for Native Code Debugging -->
+    <string name="native_debug_title">Enable native code debugging</string>
+    <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
 </resources>
