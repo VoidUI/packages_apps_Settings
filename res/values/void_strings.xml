@@ -21,5 +21,8 @@
 
     <!-- About Phone screen, Device Codename -->
     <string name="about_device_name">Device</string>
+    
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Device Maintainer</string>
 
 </resources>
