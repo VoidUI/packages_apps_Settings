@@ -52,4 +52,8 @@
 
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+
+    <!-- VoidUI version preference -->
+    <string name="VoidUI_version">"VoidUI version"</string>
+
 </resources>
