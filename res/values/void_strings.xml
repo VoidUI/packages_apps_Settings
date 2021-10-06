@@ -25,4 +25,7 @@
     <!-- VoidUI Maintainer -->
     <string name="VoidUI_maintainer">Device Maintainer</string>
 
+    <!-- VoidUI version preference -->
+    <string name="VoidUI_version">"VoidUI version"</string>
+
 </resources>
