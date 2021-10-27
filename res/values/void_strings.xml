@@ -19,4 +19,7 @@
      <string name="selinux_status_permissive">Permissive</string>
      <string name="selinux_status_enforcing">Enforcing</string>
 
+    <!-- About Phone screen, Device Codename -->
+    <string name="about_device_name">Device</string>
+
 </resources>
