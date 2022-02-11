@@ -70,6 +70,12 @@
         android:summary="@string/fast_charging_summary"
         settings:controller="com.android.settings.fuelgauge.FastChargingPreferenceController"/>
 
+    <SwitchPreference
+        android:key="power_usage_provider_google"
+        android:title="@string/powerusage_provider_google"
+	android:summary="@string/power_usage_provider_summary"
+        settings:controller="com.android.settings.fuelgauge.GooglePowerUsageProviderPreferenceController" />
+
     <com.android.settingslib.widget.FooterPreference
         android:key="power_usage_footer"
         android:selectable="false"
