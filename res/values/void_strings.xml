@@ -93,4 +93,8 @@
     <string name="wallpaper_zoom_effect_title">Wallpaper zoom effect</string>
     <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
     <string name="wallpaper_zoom_effect_summary">Zoom the wallpaper in order to show zoom-out depth animation. Wallpapers may suffer quality decrease</string>
+
+    <!-- Arcane Idle Manager -->
+    <string name="arcane_idle_manager_title">Idle Manager</string>
+    <string name="arcane_idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
 </resources>

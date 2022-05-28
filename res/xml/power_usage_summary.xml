@@ -82,4 +82,11 @@
         android:title="@string/battery_footer_summary"
         settings:searchable="false" />
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="arcane_idle_manager"
+        android:title="@string/arcane_idle_manager_title"
+        settings:iconSpaceReserved="false"
+        android:summary="@string/arcane_idle_manager_summary"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
