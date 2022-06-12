@@ -164,6 +164,12 @@
             android:summary="@string/camera_gesture_desc"
             android:title="@string/camera_gesture_title" />
 
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="qs_footer_data_usage"
+            android:title="@string/qs_footer_datausage_title"
+            android:summary="@string/qs_footer_datausage_summary"
+            android:defaultValue="false" />
+
         <SwitchPreference
             android:key="lift_to_wake"
             android:title="@string/lift_to_wake_title" />
