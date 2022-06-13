@@ -150,4 +150,8 @@
     <string name="package_name">Package name</string>
     <string name="package_version">Package version</string>
     <string name="package_version_text"><xliff:g id="version_num">%1$s</xliff:g></string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Use Black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
 </resources>
