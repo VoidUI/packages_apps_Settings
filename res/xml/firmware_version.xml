@@ -21,6 +21,12 @@
     android:title="@string/about_settings"
     settings:keywords="@string/keywords_android_version">
 
+    <!-- VoidUI logo -->
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="voidui_logo"
+        android:layout="@layout/voidui_logo"
+        android:selectable="false"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
