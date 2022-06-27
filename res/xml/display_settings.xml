@@ -70,6 +70,12 @@
             android:title="@string/screen_zoom_title"
             settings:keywords="@string/keywords_display_size" />
 
+        <!-- Wallpaper Zoom Effects -->
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="display_settings_wallpaper_zoom"
+            android:title="@string/wallpaper_zoom_effect_title"
+            android:summary="@string/wallpaper_zoom_effect_summary"
+            android:defaultValue="true" />
     </PreferenceCategory>
 
     <PreferenceCategory
