@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">Stare SELinux</string>
+  <string name="selinux_status_disabled">Dezactivat</string>
+  <string name="selinux_status_permissive">Permisiv</string>
+  <string name="selinux_status_enforcing">Enforcing</string>
+  <!-- About Phone screen, Device Codename -->
+  <string name="about_device_name">Dispozitiv</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Întreținătorul dispozitivului</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Magazin Play</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
+  <string name="display_cutout_force_fullscreen_summary">Forțați aplicațiile să ignore spațiul de notch</string>
+  <string name="search">Caută</string>
+  <string name="search_apps">Căutare aplicații</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Alte controale</string>
+  <string name="fullscreen_gestures_title">Navigare prin gesturi</string>
+  <string name="fullscreen_gestures_summary">Ascunde bara de navigare și spațiul pentru tastatură</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Lungimea barei</string>
+  <string name="short_label">Scurt</string>
+  <string name="long_label">Lung</string>
+  <!-- Hardware info -->
+  <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+  <string name="platform_revision">Platformă</string>
+  <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+  <string name="total_ram">RAM total disponibil</string>
+  <!-- Screenshot shutter -->
+  <string name="screenshot_shutter_sound_title">Sunet captură de ecran</string>
+  <!-- VoidUI version preference -->
+  <string name="VoidUI_version">"Versiune VoidUI"</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Atingeți pentru a afișa informații</string>
+  <!-- Battery stats view -->
+  <string name="powerusage_provider_google">Utilizați furnizorul de statistici de baterie Pixel</string>
+  <string name="power_usage_provider_summary">Utilizați graficul statisticilor bateriei și schema de alimentare din Pixel</string>
+  <string name="powerusage_provider_google_dialog_title">Schimbare furnizor</string>
+  <string name="powerusage_provider_google_dialog_message">Închideți setările din recente și redeschideți pentru a aplica această schimbare</string>
+  <!-- Backup Transport selection settings menu and activity title -->
+  <string name="backup_transport_setting_label">Schimbă furnizorul de backup</string>
+  <string name="backup_transport_title">Selectați furnizorul de backup</string>
+  <!-- Black theme -->
+  <string name="system_black_theme_title">Folosește tema neagră</string>
+  <string name="system_black_theme_summary">Forțează culorile negre de fundal</string>
+  <!-- Game Space -->
+  <string name="game_space_title">Spațiul de jocuri</string>
+  <string name="game_space_summary">Îmbunătățiți-vă experiența de joc</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Trepte Volum</string>
+  <string name="volume_steps_summary">Customizați pașii volumului</string>
+  <string name="volume_steps_alarm_title">Trepte volum: Alarmă</string>
+  <string name="volume_steps_dtmf_title">Trepte de volum: DTMF</string>
+  <string name="volume_steps_music_title">Trepte de volum: Media</string>
+  <string name="volume_steps_notification_title">Trepte volum: Notificare</string>
+  <string name="volume_steps_ring_title">Trepte volum: Sunet de apel</string>
+  <string name="volume_steps_system_title">Trepte de volum: Sistem</string>
+  <string name="volume_steps_voice_call_title">Trepte volum: Apel vocal</string>
+  <string name="volume_steps_reset">Resetare</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Efect de mărire fundal</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">Măriți imaginea de fundal pentru a afișa adâncimea de animație. Imaginile de fundal pot suferi o scădere de calitate</string>
+  <!-- Arcane Idle Manager -->
+  <string name="arcane_idle_manager_title">Manager Idle</string>
+  <string name="arcane_idle_manager_summary">Opriți toate procesele neesențiale de fundal atunci când dispozitivul este inactiv</string>
+  <!-- Ignore window secure -->
+  <string name="ignore_window_secure_title">Ignorați steaguri de securitate pentru ferestre</string>
+  <string name="ignore_window_secure_summary">Acest lucru elimină limitările pentru capturile de ecran și înregistrările de ecran pentru toate aplicațiile. În mod normal, aplicațiile speciale sunt înlocuite cu zone negre în înregistrări. Acest lucru poate fi convenabil în unele cazuri, dar poate duce la scurgeri de confidențialitate. După ce ați schimbat această opțiune, poate fi necesar să reporniți aplicațiile pentru ca modificarea să intre în vigoare.</string>
+  <!-- Data usage info in QS footer -->
+  <string name="qs_footer_datausage_title">Utilizarea zilnică a datelor în QS footer</string>
+  <string name="qs_footer_datausage_summary">Afișează sumarul zilnic al utilizării datelor în subsolul setărilor rapide</string>
+  <!-- Strings for Native Code Debugging -->
+  <string name="native_debug_title">Activează depanarea codului nativ</string>
+  <string name="native_debug_summary">Generează jurnale utile/rapoarte de erori din crashuri și permite depanarea codului nativ.</string>
+  <!-- App lock -->
+  <string name="app_lock_title">Blocare aplicații</string>
+  <string name="app_lock_summary_singular">1 aplicație este protejată</string>
+  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> aplicații sunt protejate</string>
+  <string name="app_lock_authentication_dialog_title">Deblocare</string>
+  <string name="app_lock_packages_title">Aplicații protejate</string>
+  <string name="app_lock_packages_summary">Selectați aplicațiile pentru a le proteja cu datele biometrice sau datele de autentificare ale dispozitivului</string>
+  <string name="app_lock_timeout_title">Timp de expirare pentru blocare automată</string>
+  <string name="app_lock_timeout_summary">Durata de timp după care o aplicație deblocată în fundal ar trebui să fie blocată</string>
+  <string name="app_lock_notifications_title">Restrângere notificări</string>
+  <string name="app_lock_notifications_summary">Conținutul notificărilor va fi ascuns și restrâns pentru aplicațiile selectate atunci când acestea sunt blocate.
+Notificările plutitoare vor fi dezactivate automat.
+     </string>
+  <string name="app_lock_notifications_disabled_summary">Protejați mai întâi o aplicație</string>
+  <string name="app_lock_footer_text">Bulele vor fi eliminate automat după expirarea timpului</string>
+  <!-- Screen setting option title for the item to take you to the stock security screen -->
+  <string name="aosp_security_settings_title">Opțiuni de blocare a ecranului</string>
+  <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+  <string name="aosp_security_settings_summary">Setați Blocarea aplicațiilor, blocarea cartelei SIM, blocarea stocării acreditărilor</string>
+</resources>

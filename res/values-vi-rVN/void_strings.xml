@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">Trạng thái SELinux</string>
+  <string name="selinux_status_disabled">Đã tắt</string>
+  <string name="selinux_status_permissive">Cho phép</string>
+  <string name="selinux_status_enforcing">Bắt buộc</string>
+  <!-- About Phone screen, Device Codename -->
+  <string name="about_device_name">Thiết bị</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Người duy trì</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Google Play</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+  <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian khuyết</string>
+  <string name="search">Tìm kiếm</string>
+  <string name="search_apps">Tìm ứng dụng</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Các điều khiển khác</string>
+  <string name="fullscreen_gestures_title">Cử chỉ toàn màn hình</string>
+  <string name="fullscreen_gestures_summary">Ẩn thanh điều hướng và không gian bàn phím</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Chiều dài thanh cử chỉ</string>
+  <string name="short_label">Ngắn</string>
+  <string name="long_label">Dài</string>
+  <!-- Hardware info -->
+  <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+  <string name="platform_revision">Nền tảng</string>
+  <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+  <string name="total_ram">Tổng số RAM khả dụng</string>
+  <!-- Screenshot shutter -->
+  <string name="screenshot_shutter_sound_title">Âm thanh chụp màn hình</string>
+  <!-- VoidUI version preference -->
+  <string name="VoidUI_version">"Phiên bản VoidUl"</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
+  <!-- Battery stats view -->
+  <string name="powerusage_provider_google">Sử dụng nhà cung cấp số liệu thống kê pin Pixel</string>
+  <string name="power_usage_provider_summary">Sử dụng biểu đồ thống kê pin và sơ đồ năng lượng từ Pixel</string>
+  <string name="powerusage_provider_google_dialog_title">Thay đổi nhà cung cấp</string>
+  <string name="powerusage_provider_google_dialog_message">Vui lòng đóng Cài đặt từ gần đây và mở lại để áp dụng thay đổi này</string>
+  <!-- Backup Transport selection settings menu and activity title -->
+  <string name="backup_transport_setting_label">Thay đổi nhà cung cấp để sao lưu</string>
+  <string name="backup_transport_title">Chọn nhà cung cấp để sao lưu</string>
+  <!-- Black theme -->
+  <string name="system_black_theme_title">Sử dụng chủ đề đen</string>
+  <string name="system_black_theme_summary">Buộc màu nền đen</string>
+  <!-- Game Space -->
+  <string name="game_space_title">Không gian trò chơi</string>
+  <string name="game_space_summary">Cải thiện trải nghiệm chơi game</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Các bước âm lượng</string>
+  <string name="volume_steps_summary">Tùy chỉnh các bước âm lượng</string>
+  <string name="volume_steps_alarm_title">Các bước âm lượng: Báo thức</string>
+  <string name="volume_steps_dtmf_title">Các bước âm lượng: DTMF</string>
+  <string name="volume_steps_music_title">Các bước âm lượng: Media</string>
+  <string name="volume_steps_notification_title">Các bước âm lượng: Thông báo</string>
+  <string name="volume_steps_ring_title">Các bước âm lượng: Chuông báo</string>
+  <string name="volume_steps_system_title">Các bước âm lượng: Hệ thống</string>
+  <string name="volume_steps_voice_call_title">Các bước âm lượng: Cuộc gọi thoại</string>
+  <string name="volume_steps_reset">Thiết lập lại</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Hiệu ứng thu phóng ảnh nền</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">Phóng to ảnh nền để hiện hoạt ảnh độ sâu. Hình nền có thể bị giảm chất lượng</string>
+  <!-- Arcane Idle Manager -->
+  <string name="arcane_idle_manager_title">Quản lí chờ</string>
+  <string name="arcane_idle_manager_summary">Dừng tất cả các quá trình nền không cần thiết khi thiết bị không hoạt động</string>
+  <!-- Ignore window secure -->
+  <string name="ignore_window_secure_title">Bỏ qua cửa sổ bảo mật</string>
+  <string name="ignore_window_secure_summary">Điều này loại bỏ các ảnh chụp màn hình và giới hạn ghi lại màn hình cho tất cả các ứng dụng. Thông thường, các ứng dụng đặc biệt được thay thế bằng các vùng đen trong hồ sơ. Điều này có thể thuận tiện trong một số trường hợp nhưng có thể dẫn đến rò rỉ quyền riêng tư. Sau khi thay đổi công tắc này, bạn có thể phải khởi động lại ứng dụng để thay đổi có hiệu lực.</string>
+  <!-- Data usage info in QS footer -->
+  <string name="qs_footer_datausage_title">Sử dụng dữ liệu hàng ngày ở dưới QS</string>
+  <string name="qs_footer_datausage_summary">Hiển thị tóm tắt sử dụng dữ liệu hàng ngày trong chân trang cài đặt nhanh</string>
+  <!-- Strings for Native Code Debugging -->
+  <string name="native_debug_title">Bật gỡ lỗi mã gốc</string>
+  <string name="native_debug_summary">Tạo nhật ký hữu ích / báo cáo lỗi từ các sự cố và cho phép gỡ lỗi mã gốc.</string>
+  <!-- App lock -->
+  <string name="app_lock_title">Khoá ứng dụng</string>
+  <string name="app_lock_summary_singular">1 ứng dụng được bảo vệ</string>
+  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> ứng dụng được bảo vệ</string>
+  <string name="app_lock_authentication_dialog_title">Mở khoá</string>
+  <string name="app_lock_packages_title">Các ứng dụng được bảo vệ</string>
+  <string name="app_lock_packages_summary">Chọn các ứng dụng để bảo vệ bằng sinh trắc học hoặc thông tin đăng nhập thiết bị</string>
+  <string name="app_lock_timeout_title">Hẹn giờ tự động khóa</string>
+  <string name="app_lock_timeout_summary">Khoảng thời gian mà sau đó ứng dụng đã mở khóa trong nền sẽ bị khóa</string>
+  <string name="app_lock_notifications_title">Thu gọn thông báo</string>
+  <string name="app_lock_notifications_summary">Nội dung thông báo sẽ bị ẩn và thu gọn đối với các ứng dụng đã chọn khi chúng bị khóa.
+           Thông báo cảnh báo sẽ tự động bị tắt.    </string>
+  <string name="app_lock_notifications_disabled_summary">Bảo vệ một ứng dụng trước tiên</string>
+  <string name="app_lock_footer_text">Bong bóng sẽ tự động bị loại bỏ sau khi hết thời gian chờ</string>
+  <!-- Screen setting option title for the item to take you to the stock security screen -->
+  <string name="aosp_security_settings_title">Tùy chọn phương thức khóa</string>
+  <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+  <string name="aosp_security_settings_summary">Đặt ứng dụng mở khóa màn hình, khóa thẻ SIM, khóa bộ nhớ thông tin xác thực</string>
+</resources>
