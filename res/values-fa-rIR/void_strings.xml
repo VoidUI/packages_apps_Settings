@@ -13,42 +13,42 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- SELinux Status -->
-  <string name="selinux_status">SELinux status</string>
-  <string name="selinux_status_disabled">Disabled</string>
-  <string name="selinux_status_permissive">Permissive</string>
-  <string name="selinux_status_enforcing">Enforcing</string>
+  <string name="selinux_status">وضعیت SELinux</string>
+  <string name="selinux_status_disabled">غیرفعال</string>
+  <string name="selinux_status_permissive">مجاز</string>
+  <string name="selinux_status_enforcing">در حال اجرا</string>
   <!-- About Phone screen, Device Codename -->
-  <string name="about_device_name">Device</string>
+  <string name="about_device_name">دستگاه</string>
   <!-- VoidUI Maintainer -->
-  <string name="VoidUI_maintainer">Device Maintainer</string>
+  <string name="VoidUI_maintainer">توسعه دهنده دستگاه</string>
   <!-- App details: open play store link if app is user installed -->
-  <string name="app_play_store">Google Play</string>
+  <string name="app_play_store">فروشگاه گوگل</string>
   <!-- Notch: Full screen apps -->
-  <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-  <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
-  <string name="search">Search</string>
-  <string name="search_apps">Search apps</string>
+  <string name="display_cutout_force_fullscreen_title">برنامه های تمام صفحه</string>
+  <string name="display_cutout_force_fullscreen_summary">اجبار برنامه ها برای نادیده گرفتن شکاف صفحه</string>
+  <string name="search">جُستجو</string>
+  <string name="search_apps">جستجوی برنامه‌ها</string>
   <!-- Fullscreen gestures -->
-  <string name="other_controls_title">Other controls</string>
-  <string name="fullscreen_gestures_title">Fullscreen gestures</string>
-  <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+  <string name="other_controls_title">سایر کنترل ها</string>
+  <string name="fullscreen_gestures_title">حرکات تمام صفحه</string>
+  <string name="fullscreen_gestures_summary">مخفی کردن نوار پیمایش و فضای کیبورد</string>
   <!-- Gesture navbar length -->
-  <string name="gesture_navbar_length_title">Pill length</string>
-  <string name="short_label">Short</string>
-  <string name="long_label">Long</string>
+  <string name="gesture_navbar_length_title">طول نوار پیمایش</string>
+  <string name="short_label">کوتاه</string>
+  <string name="long_label">طولانی</string>
   <!-- Hardware info -->
   <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
-  <string name="platform_revision">Platform</string>
+  <string name="platform_revision">پلتفرم</string>
   <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
-  <string name="total_ram">Total available RAM</string>
+  <string name="total_ram">مجموع رم در دسترس</string>
   <!-- Screenshot shutter -->
-  <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+  <string name="screenshot_shutter_sound_title">صدای اسکرین‌شات</string>
   <!-- VoidUI version preference -->
-  <string name="VoidUI_version">"VoidUI version"</string>
+  <string name="VoidUI_version">"نسخه VoidUI"</string>
   <!-- String for removal of sensitive info on about, depending on tap -->
-  <string name="device_info_protected_single_press">Tap to show info</string>
+  <string name="device_info_protected_single_press">برای نمایش اطلاعات ضربه بزنید</string>
   <!-- Battery stats view -->
-  <string name="powerusage_provider_google">Use Pixel battery stats provider</string>
+  <string name="powerusage_provider_google">نمایش اطلاعات باتری پیکسل</string>
   <string name="power_usage_provider_summary">Use battery stats graph and power scheme from Pixel</string>
   <string name="powerusage_provider_google_dialog_title">Changing provider</string>
   <string name="powerusage_provider_google_dialog_message">Please close Setttings from recents and reopen to apply this change</string>

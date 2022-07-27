@@ -25,7 +25,7 @@
   <string name="app_play_store">Magazin Play</string>
   <!-- Notch: Full screen apps -->
   <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
-  <string name="display_cutout_force_fullscreen_summary">Forțați aplicațiile să ignore spațiul de notch</string>
+  <string name="display_cutout_force_fullscreen_summary">Forțați aplicațiile să ignore spațiul notch</string>
   <string name="search">Caută</string>
   <string name="search_apps">Căutare aplicații</string>
   <!-- Fullscreen gestures -->
@@ -48,7 +48,7 @@
   <!-- String for removal of sensitive info on about, depending on tap -->
   <string name="device_info_protected_single_press">Atingeți pentru a afișa informații</string>
   <!-- Battery stats view -->
-  <string name="powerusage_provider_google">Utilizați furnizorul de statistici de baterie Pixel</string>
+  <string name="powerusage_provider_google">Utilizați furnizorul de statistici ale bateriei Pixel</string>
   <string name="power_usage_provider_summary">Utilizați graficul statisticilor bateriei și schema de alimentare din Pixel</string>
   <string name="powerusage_provider_google_dialog_title">Schimbare furnizor</string>
   <string name="powerusage_provider_google_dialog_message">Închideți setările din recente și redeschideți pentru a aplica această schimbare</string>

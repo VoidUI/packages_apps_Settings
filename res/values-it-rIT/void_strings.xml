@@ -20,7 +20,7 @@
   <!-- About Phone screen, Device Codename -->
   <string name="about_device_name">Dispositivo</string>
   <!-- VoidUI Maintainer -->
-  <string name="VoidUI_maintainer">Device Maintainer</string>
+  <string name="VoidUI_maintainer">Manutentore del dispositivo</string>
   <!-- App details: open play store link if app is user installed -->
   <string name="app_play_store">Google Play</string>
   <!-- Notch: Full screen apps -->
@@ -29,7 +29,7 @@
   <string name="search">Ricerca</string>
   <string name="search_apps">Cerca App</string>
   <!-- Fullscreen gestures -->
-  <string name="other_controls_title">Other controls</string>
+  <string name="other_controls_title">Altri comandi</string>
   <string name="fullscreen_gestures_title">Gesti a schermo intero</string>
   <string name="fullscreen_gestures_summary">Nascondi la barra delle gesture e lo spazio della tastiera</string>
   <!-- Gesture navbar length -->
@@ -38,7 +38,7 @@
   <string name="long_label">Lunga</string>
   <!-- Hardware info -->
   <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
-  <string name="platform_revision">Platform</string>
+  <string name="platform_revision">Piattaforma</string>
   <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
   <string name="total_ram">Ram totale disponibile</string>
   <!-- Screenshot shutter -->
@@ -51,31 +51,31 @@
   <string name="powerusage_provider_google">Usa il provider di statistiche Pixel</string>
   <string name="power_usage_provider_summary">Usa il grafico delle statistiche della batteria e lo schema di alimentazione dai Pixel</string>
   <string name="powerusage_provider_google_dialog_title">Changing provider</string>
-  <string name="powerusage_provider_google_dialog_message">Please close Setttings from recents and reopen to apply this change</string>
+  <string name="powerusage_provider_google_dialog_message">Si prega di chiudere le Impostazioni dai Recenti e riaprire per applicare questa modifica</string>
   <!-- Backup Transport selection settings menu and activity title -->
-  <string name="backup_transport_setting_label">Change backup provider</string>
-  <string name="backup_transport_title">Select backup provider</string>
+  <string name="backup_transport_setting_label">Cambia gestore di backup</string>
+  <string name="backup_transport_title">Seleziona un gestore di backup</string>
   <!-- Black theme -->
-  <string name="system_black_theme_title">Use black theme</string>
-  <string name="system_black_theme_summary">Force black background colors</string>
+  <string name="system_black_theme_title">Usa il tema scuro</string>
+  <string name="system_black_theme_summary">Forza colori di sfondo neri</string>
   <!-- Game Space -->
-  <string name="game_space_title">Game Space</string>
-  <string name="game_space_summary">Enhance your gaming experience</string>
+  <string name="game_space_title">Spazio di gioco</string>
+  <string name="game_space_summary">Migliora la tua esperienza di gioco</string>
   <!-- Volume Steps Fragment -->
-  <string name="volume_steps_fragment_title">Volume steps</string>
-  <string name="volume_steps_summary">Customize volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Media</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+  <string name="volume_steps_fragment_title">Livelli volume</string>
+  <string name="volume_steps_summary">Personalizza i livelli del volume</string>
+  <string name="volume_steps_alarm_title">Livelli volume: Sveglia</string>
+  <string name="volume_steps_dtmf_title">Livelli volume: DTMF</string>
+  <string name="volume_steps_music_title">Livelli volume: Media</string>
+  <string name="volume_steps_notification_title">Livelli volume: Notifica</string>
+  <string name="volume_steps_ring_title">Livelli volume: Suoneria</string>
+  <string name="volume_steps_system_title">Livelli volume: Sistema</string>
+  <string name="volume_steps_voice_call_title">Livelli volume: Chiamata</string>
   <string name="volume_steps_reset">Reset</string>
   <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_title">Wallpaper zoom effect</string>
+  <string name="wallpaper_zoom_effect_title">Effetto zoom dello sfondo</string>
   <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_summary">Zoom the wallpaper in order to show zoom-out depth animation. Wallpapers may suffer quality decrease</string>
+  <string name="wallpaper_zoom_effect_summary">Ingrandisci lo sfondo per mostrare l\'animazione di zoom-out. Gli sfondi potrebbero subire una diminuzione della qualità</string>
   <!-- Arcane Idle Manager -->
   <string name="arcane_idle_manager_title">Idle Manager</string>
   <string name="arcane_idle_manager_summary">Stop all non-essential background processes when the device is idle</string>

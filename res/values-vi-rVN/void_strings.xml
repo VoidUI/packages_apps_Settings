@@ -83,8 +83,8 @@
   <string name="ignore_window_secure_title">Bỏ qua cửa sổ bảo mật</string>
   <string name="ignore_window_secure_summary">Điều này loại bỏ các ảnh chụp màn hình và giới hạn ghi lại màn hình cho tất cả các ứng dụng. Thông thường, các ứng dụng đặc biệt được thay thế bằng các vùng đen trong hồ sơ. Điều này có thể thuận tiện trong một số trường hợp nhưng có thể dẫn đến rò rỉ quyền riêng tư. Sau khi thay đổi công tắc này, bạn có thể phải khởi động lại ứng dụng để thay đổi có hiệu lực.</string>
   <!-- Data usage info in QS footer -->
-  <string name="qs_footer_datausage_title">Sử dụng dữ liệu hàng ngày ở dưới QS</string>
-  <string name="qs_footer_datausage_summary">Hiển thị tóm tắt sử dụng dữ liệu hàng ngày trong chân trang cài đặt nhanh</string>
+  <string name="qs_footer_datausage_title">Sử dụng dữ liệu hàng ngày ở cuối QS</string>
+  <string name="qs_footer_datausage_summary">Hiển thị tóm tắt sử dụng dữ liệu hàng ngày cuối cài đặt nhanh</string>
   <!-- Strings for Native Code Debugging -->
   <string name="native_debug_title">Bật gỡ lỗi mã gốc</string>
   <string name="native_debug_summary">Tạo nhật ký hữu ích / báo cáo lỗi từ các sự cố và cho phép gỡ lỗi mã gốc.</string>

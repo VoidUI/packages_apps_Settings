@@ -15,8 +15,8 @@
   <!-- SELinux Status -->
   <string name="selinux_status">حالة SELinux</string>
   <string name="selinux_status_disabled">مُعطّل</string>
-  <string name="selinux_status_permissive">Permissive</string>
-  <string name="selinux_status_enforcing">Enforcing</string>
+  <string name="selinux_status_permissive">متساهل</string>
+  <string name="selinux_status_enforcing">فرض</string>
   <!-- About Phone screen, Device Codename -->
   <string name="about_device_name">الجهاز</string>
   <!-- VoidUI Maintainer -->
@@ -30,7 +30,7 @@
   <string name="search_apps">البحث عن التطبيقات</string>
   <!-- Fullscreen gestures -->
   <string name="other_controls_title">إعدادات أُخرى</string>
-  <string name="fullscreen_gestures_title">الإيماءات</string>
+  <string name="fullscreen_gestures_title">إيماءات ملء الشاشة</string>
   <string name="fullscreen_gestures_summary">إخفاء شريط التنقل و المساحة تحت لوحة المفاتيح</string>
   <!-- Gesture navbar length -->
   <string name="gesture_navbar_length_title">طول شريط التنقل</string>
@@ -40,7 +40,7 @@
   <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
   <string name="platform_revision">المنصة</string>
   <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
-  <string name="total_ram">المتبقي من الذاكرة العشوائية</string>
+  <string name="total_ram">إجمالي ذاكرة الوصول العشوائي المتاحة</string>
   <!-- Screenshot shutter -->
   <string name="screenshot_shutter_sound_title">صوت لقطة الشاشة</string>
   <!-- VoidUI version preference -->
@@ -48,19 +48,19 @@
   <!-- String for removal of sensitive info on about, depending on tap -->
   <string name="device_info_protected_single_press">انقر لعرض المعلومات</string>
   <!-- Battery stats view -->
-  <string name="powerusage_provider_google">Use Pixel battery stats provider</string>
-  <string name="power_usage_provider_summary">Use battery stats graph and power scheme from Pixel</string>
-  <string name="powerusage_provider_google_dialog_title">Changing provider</string>
+  <string name="powerusage_provider_google">استخدام موفر إحصائيات بطارية Pixel</string>
+  <string name="power_usage_provider_summary">استخدام إحصائيات البطارية الرسم البياني ونظام الطاقة من Pixel</string>
+  <string name="powerusage_provider_google_dialog_title">تغيير المزود</string>
   <string name="powerusage_provider_google_dialog_message">الرجاء إغلاق الإعدادات من شاشة المهام الحديثة و فتحها مجددا لتطبيق التغييرات</string>
   <!-- Backup Transport selection settings menu and activity title -->
-  <string name="backup_transport_setting_label">Change backup provider</string>
-  <string name="backup_transport_title">Select backup provider</string>
+  <string name="backup_transport_setting_label">تغيير مزود النسخ الاحتياطي</string>
+  <string name="backup_transport_title">حدد مزود النسخ الاحتياطي</string>
   <!-- Black theme -->
   <string name="system_black_theme_title">استخدام السمة السوداء</string>
   <string name="system_black_theme_summary">إجبار الوان سوداء للخلفية</string>
   <!-- Game Space -->
   <string name="game_space_title">مساحة الألعاب</string>
-  <string name="game_space_summary">Enhance your gaming experience</string>
+  <string name="game_space_summary">عزز تجرِبة اللعب الخاصة بك</string>
   <!-- Volume Steps Fragment -->
   <string name="volume_steps_fragment_title">درجات الصوت</string>
   <string name="volume_steps_summary">تعديل درجات الصوت</string>
@@ -80,31 +80,30 @@
   <string name="arcane_idle_manager_title">إدارة الخمول</string>
   <string name="arcane_idle_manager_summary">إيقاف جميع العمليات غير الأساسية في الخلفية عندما يكون الجهاز خاملا</string>
   <!-- Ignore window secure -->
-  <string name="ignore_window_secure_title">Ignore window secure flags</string>
-  <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+  <string name="ignore_window_secure_title">تجاهل أعلام النافذة الآمنة</string>
+  <string name="ignore_window_secure_summary">يزيل هذا الخَيار الحدود لأخذ لقطات شاشة و تسجيلات الشاشة لجميع التطبيقات. أحيانًا، بعض التطبيقات تَستبدل تسجيلات الشاشة بشاشةٍ سوداء. يمكن أن يكون هذا مناسبًا في بعض الحالات لكن قد يؤدي إلى تسرب في الخصوصيات. بعد تغيير هذا الخَيار قد تحتاج لإعادة تشغيل التطبيق لتطبيق التغييرات.</string>
   <!-- Data usage info in QS footer -->
-  <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
-  <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+  <string name="qs_footer_datausage_title">أستخدام البيانات اليومي في القائمة المنسدلة</string>
+  <string name="qs_footer_datausage_summary">إظهار كَمية البيانات المستخدمة في القائمة المنسدلة</string>
   <!-- Strings for Native Code Debugging -->
-  <string name="native_debug_title">Enable native code debugging</string>
-  <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
+  <string name="native_debug_title">تمكين تصحيح الشفرة الأصلية</string>
+  <string name="native_debug_summary">إنشاء سجلات مفيدة/ تقارير الأخطاء من الأعطال والسماح بتصحيح الأخطاء في الشفرة الأصلية.</string>
   <!-- App lock -->
-  <string name="app_lock_title">App lock</string>
-  <string name="app_lock_summary_singular">1 application is protected</string>
-  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> applications are protected</string>
-  <string name="app_lock_authentication_dialog_title">Unlock</string>
-  <string name="app_lock_packages_title">Protected apps</string>
-  <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-  <string name="app_lock_timeout_title">Auto lock timeout</string>
-  <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-  <string name="app_lock_notifications_title">Collapse notifications</string>
-  <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
-     </string>
-  <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-  <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
+  <string name="app_lock_title">قَفل التطبيقات</string>
+  <string name="app_lock_summary_singular">تطبيق واحد محمي</string>
+  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> تطبيقات محمية</string>
+  <string name="app_lock_authentication_dialog_title">فتح القُفْل</string>
+  <string name="app_lock_packages_title">التطبيقات المحمية</string>
+  <string name="app_lock_packages_summary">اختر التطبيق المراد حمايتهُ بالبصمة أو بيانات اعتماد الجهاز</string>
+  <string name="app_lock_timeout_title">مُهلة القَفل التلقائي</string>
+  <string name="app_lock_timeout_summary">المهلة الزمنية المحددة لإعادة قَفْل التطبيق المفتوح بالخلفية</string>
+  <string name="app_lock_notifications_title">تصغير الإشعارات</string>
+  <string name="app_lock_notifications_summary">- سيتم إخفاء و تصغير محتوى الإشعار للتطبيقات المحددة عند قفلها.
+- سيتم إيقاف الإشعارات المنبثقة تلقائيًا.     </string>
+  <string name="app_lock_notifications_disabled_summary">احمي تطبيق أولا</string>
+  <string name="app_lock_footer_text">سيتم إزالة الفقاعات تلقائيًا بعد انتهاء المهلة</string>
   <!-- Screen setting option title for the item to take you to the stock security screen -->
-  <string name="aosp_security_settings_title">Stock lock options</string>
+  <string name="aosp_security_settings_title">خيارات القُفْل</string>
   <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
-  <string name="aosp_security_settings_summary">Set App lock, SIM card lock, credential storage lock</string>
+  <string name="aosp_security_settings_summary">تعيين قُفل للتطبيقات، قَفل شريحة SIM، قَفل تخزين بيانات الاعتماد</string>
 </resources>

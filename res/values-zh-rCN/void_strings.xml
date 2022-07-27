@@ -13,98 +13,99 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- SELinux Status -->
-  <string name="selinux_status">SELinux status</string>
-  <string name="selinux_status_disabled">Disabled</string>
-  <string name="selinux_status_permissive">Permissive</string>
-  <string name="selinux_status_enforcing">Enforcing</string>
+  <string name="selinux_status">SELinux 状态</string>
+  <string name="selinux_status_disabled">Selinux 已停用</string>
+  <string name="selinux_status_permissive">Selinux 权限</string>
+  <string name="selinux_status_enforcing">Selinux 强制模式</string>
   <!-- About Phone screen, Device Codename -->
-  <string name="about_device_name">Device</string>
+  <string name="about_device_name">关于手机</string>
   <!-- VoidUI Maintainer -->
-  <string name="VoidUI_maintainer">Device Maintainer</string>
+  <string name="VoidUI_maintainer">VoidUI 管理员</string>
   <!-- App details: open play store link if app is user installed -->
-  <string name="app_play_store">Google Play</string>
+  <string name="app_play_store">谷歌应用商店
+应用资料：如果应用是用户安装的，打开谷歌应该商店</string>
   <!-- Notch: Full screen apps -->
-  <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-  <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
-  <string name="search">Search</string>
-  <string name="search_apps">Search apps</string>
+  <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+  <string name="display_cutout_force_fullscreen_summary">应用强制忽略屏幕开孔</string>
+  <string name="search">搜索</string>
+  <string name="search_apps">搜索应用程序</string>
   <!-- Fullscreen gestures -->
-  <string name="other_controls_title">Other controls</string>
-  <string name="fullscreen_gestures_title">Fullscreen gestures</string>
-  <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+  <string name="other_controls_title">其他控制</string>
+  <string name="fullscreen_gestures_title">全屏手势</string>
+  <string name="fullscreen_gestures_summary">隐藏屏幕底部导航条</string>
   <!-- Gesture navbar length -->
-  <string name="gesture_navbar_length_title">Pill length</string>
-  <string name="short_label">Short</string>
-  <string name="long_label">Long</string>
+  <string name="gesture_navbar_length_title">导航条长度</string>
+  <string name="short_label">短</string>
+  <string name="long_label">长</string>
   <!-- Hardware info -->
   <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
-  <string name="platform_revision">Platform</string>
+  <string name="platform_revision">设备平台</string>
   <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
-  <string name="total_ram">Total available RAM</string>
+  <string name="total_ram">总计可用内存</string>
   <!-- Screenshot shutter -->
-  <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+  <string name="screenshot_shutter_sound_title">截图声音</string>
   <!-- VoidUI version preference -->
-  <string name="VoidUI_version">"VoidUI version"</string>
+  <string name="VoidUI_version">"VoidUI 版本"</string>
   <!-- String for removal of sensitive info on about, depending on tap -->
-  <string name="device_info_protected_single_press">Tap to show info</string>
+  <string name="device_info_protected_single_press">点按即可显示信息</string>
   <!-- Battery stats view -->
-  <string name="powerusage_provider_google">Use Pixel battery stats provider</string>
-  <string name="power_usage_provider_summary">Use battery stats graph and power scheme from Pixel</string>
-  <string name="powerusage_provider_google_dialog_title">Changing provider</string>
-  <string name="powerusage_provider_google_dialog_message">Please close Setttings from recents and reopen to apply this change</string>
+  <string name="powerusage_provider_google">使用Pixel电池统计提供程序</string>
+  <string name="power_usage_provider_summary">使用Pixel 的电量统计图和电源方案</string>
+  <string name="powerusage_provider_google_dialog_title">正在更改提供商</string>
+  <string name="powerusage_provider_google_dialog_message">请从最近任务关闭设置并重新打开</string>
   <!-- Backup Transport selection settings menu and activity title -->
-  <string name="backup_transport_setting_label">Change backup provider</string>
-  <string name="backup_transport_title">Select backup provider</string>
+  <string name="backup_transport_setting_label">更改备份提供者</string>
+  <string name="backup_transport_title">选择备份提供者</string>
   <!-- Black theme -->
-  <string name="system_black_theme_title">Use black theme</string>
-  <string name="system_black_theme_summary">Force black background colors</string>
+  <string name="system_black_theme_title">使用暗色主题</string>
+  <string name="system_black_theme_summary">强制黑色背景色</string>
   <!-- Game Space -->
-  <string name="game_space_title">Game Space</string>
-  <string name="game_space_summary">Enhance your gaming experience</string>
+  <string name="game_space_title">游戏空间</string>
+  <string name="game_space_summary">增强您的游戏体验</string>
   <!-- Volume Steps Fragment -->
-  <string name="volume_steps_fragment_title">Volume steps</string>
-  <string name="volume_steps_summary">Customize volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Media</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_fragment_title">音量级别</string>
+  <string name="volume_steps_summary">自定义音量阶数</string>
+  <string name="volume_steps_alarm_title">音量级别：闹钟</string>
+  <string name="volume_steps_dtmf_title">音量级别：双音多频</string>
+  <string name="volume_steps_music_title">音量级别：媒体</string>
+  <string name="volume_steps_notification_title">音量级别：通知</string>
+  <string name="volume_steps_ring_title">音量级别: 铃声</string>
+  <string name="volume_steps_system_title">音量级别：系统</string>
+  <string name="volume_steps_voice_call_title">音量级别：语音通话</string>
+  <string name="volume_steps_reset">重置</string>
   <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_title">Wallpaper zoom effect</string>
+  <string name="wallpaper_zoom_effect_title">壁纸缩放效果</string>
   <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_summary">Zoom the wallpaper in order to show zoom-out depth animation. Wallpapers may suffer quality decrease</string>
+  <string name="wallpaper_zoom_effect_summary">缩放壁纸以展示缩小深度动画。壁纸质量可能降低</string>
   <!-- Arcane Idle Manager -->
-  <string name="arcane_idle_manager_title">Idle Manager</string>
-  <string name="arcane_idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+  <string name="arcane_idle_manager_title">空闲管理器</string>
+  <string name="arcane_idle_manager_summary">设备空闲时停止所有非必要的后台进程</string>
   <!-- Ignore window secure -->
-  <string name="ignore_window_secure_title">Ignore window secure flags</string>
-  <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+  <string name="ignore_window_secure_title">忽略 FLAG_SECURE 窗口标志</string>
+  <string name="ignore_window_secure_summary">这将删除所有应用程序的截图和录屏限制。 通常，特殊应用程序会把截图或录屏中的内容变黑。 在某些情况下这可能很方便，但可能会导致隐私泄露。 更改此切换后，您可能需要重新启动</string>
   <!-- Data usage info in QS footer -->
-  <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
-  <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+  <string name="qs_footer_datausage_title">在快速设置的底部显示每日数据使用情况</string>
+  <string name="qs_footer_datausage_summary">在快速设置的底部显示流量使用情况</string>
   <!-- Strings for Native Code Debugging -->
-  <string name="native_debug_title">Enable native code debugging</string>
-  <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
+  <string name="native_debug_title">启用本地代码调试</string>
+  <string name="native_debug_summary">从系统崩溃中生成有用的日志/错误报告并允许调试本地代码。</string>
   <!-- App lock -->
-  <string name="app_lock_title">App lock</string>
-  <string name="app_lock_summary_singular">1 application is protected</string>
-  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> applications are protected</string>
-  <string name="app_lock_authentication_dialog_title">Unlock</string>
-  <string name="app_lock_packages_title">Protected apps</string>
-  <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-  <string name="app_lock_timeout_title">Auto lock timeout</string>
-  <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-  <string name="app_lock_notifications_title">Collapse notifications</string>
-  <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+  <string name="app_lock_title">应用锁</string>
+  <string name="app_lock_summary_singular">1 个应用程序受到保护</string>
+  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> 应用程序受到保护</string>
+  <string name="app_lock_authentication_dialog_title">解锁</string>
+  <string name="app_lock_packages_title">受保护的应用</string>
+  <string name="app_lock_packages_summary">选择要使用生物识别或设备凭据保护的应用</string>
+  <string name="app_lock_timeout_title">超时自动锁定</string>
+  <string name="app_lock_timeout_summary">已解锁的应用在后台重新上锁的时间</string>
+  <string name="app_lock_notifications_title">折叠通知</string>
+  <string name="app_lock_notifications_summary">锁定选定应用时，通知内容将被隐藏和折叠。
+          浮动通知将被自动禁用。
      </string>
-  <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-  <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
+  <string name="app_lock_notifications_disabled_summary">先选择一个应用保护</string>
+  <string name="app_lock_footer_text">超时后气泡会自动消失</string>
   <!-- Screen setting option title for the item to take you to the stock security screen -->
-  <string name="aosp_security_settings_title">Stock lock options</string>
+  <string name="aosp_security_settings_title">原生锁定选项</string>
   <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
-  <string name="aosp_security_settings_summary">Set App lock, SIM card lock, credential storage lock</string>
+  <string name="aosp_security_settings_summary">设置应用锁定、 SIM 卡锁定、 凭据存储锁</string>
 </resources>

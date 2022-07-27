@@ -13,98 +13,97 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- SELinux Status -->
-  <string name="selinux_status">SELinux status</string>
-  <string name="selinux_status_disabled">Disabled</string>
-  <string name="selinux_status_permissive">Permissive</string>
-  <string name="selinux_status_enforcing">Enforcing</string>
+  <string name="selinux_status">एसईलिनक्स स्थिति</string>
+  <string name="selinux_status_disabled">अक्षम किया गया है</string>
+  <string name="selinux_status_permissive">अनुमोदक</string>
+  <string name="selinux_status_enforcing">एनफॉर्सिंग</string>
   <!-- About Phone screen, Device Codename -->
-  <string name="about_device_name">Device</string>
+  <string name="about_device_name">उपकरण</string>
   <!-- VoidUI Maintainer -->
-  <string name="VoidUI_maintainer">Device Maintainer</string>
+  <string name="VoidUI_maintainer">उपकरण अनुरक्षक</string>
   <!-- App details: open play store link if app is user installed -->
-  <string name="app_play_store">Google Play</string>
+  <string name="app_play_store">गूगल प्ले</string>
   <!-- Notch: Full screen apps -->
-  <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-  <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
-  <string name="search">Search</string>
-  <string name="search_apps">Search apps</string>
+  <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रीन एप्लिकेशन</string>
+  <string name="display_cutout_force_fullscreen_summary">ऐप्स को नॉच स्पेस को नज़रअंदाज़ करने के लिए मजबूर करें</string>
+  <string name="search">खोजें</string>
+  <string name="search_apps">ऐप्स खोजें</string>
   <!-- Fullscreen gestures -->
-  <string name="other_controls_title">Other controls</string>
-  <string name="fullscreen_gestures_title">Fullscreen gestures</string>
-  <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+  <string name="other_controls_title">अन्य नियंत्रण</string>
+  <string name="fullscreen_gestures_title">फुल स्क्रीन जेस्चर</string>
+  <string name="fullscreen_gestures_summary">नेवबार पिल और कीबोर्ड स्पेस छुपाएं</string>
   <!-- Gesture navbar length -->
-  <string name="gesture_navbar_length_title">Pill length</string>
-  <string name="short_label">Short</string>
-  <string name="long_label">Long</string>
+  <string name="gesture_navbar_length_title">पिल की लंबाई</string>
+  <string name="short_label">छोटा</string>
+  <string name="long_label">लंबी</string>
   <!-- Hardware info -->
   <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
-  <string name="platform_revision">Platform</string>
+  <string name="platform_revision">प्लैटफ़ॉर्म</string>
   <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
-  <string name="total_ram">Total available RAM</string>
+  <string name="total_ram">कुल उपलब्ध रेम</string>
   <!-- Screenshot shutter -->
-  <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+  <string name="screenshot_shutter_sound_title">स्क्रीनशॉट ध्वनि</string>
   <!-- VoidUI version preference -->
-  <string name="VoidUI_version">"VoidUI version"</string>
+  <string name="VoidUI_version">"वॉइड ऊईआई वर्जन"</string>
   <!-- String for removal of sensitive info on about, depending on tap -->
-  <string name="device_info_protected_single_press">Tap to show info</string>
+  <string name="device_info_protected_single_press">जानकारी देखने के लिए दबाएं</string>
   <!-- Battery stats view -->
-  <string name="powerusage_provider_google">Use Pixel battery stats provider</string>
-  <string name="power_usage_provider_summary">Use battery stats graph and power scheme from Pixel</string>
-  <string name="powerusage_provider_google_dialog_title">Changing provider</string>
-  <string name="powerusage_provider_google_dialog_message">Please close Setttings from recents and reopen to apply this change</string>
+  <string name="powerusage_provider_google">पिक्सेल वाले बैटरी ग्राफ का इस्तेमाल करें</string>
+  <string name="power_usage_provider_summary">पिक्सेल के बैटरी ग्राफ़ और पावर स्कीम का इस्तेमाल करें</string>
+  <string name="powerusage_provider_google_dialog_title">प्रदाता बदलना</string>
+  <string name="powerusage_provider_google_dialog_message">कृपया सेटिंग बंद करें और इस परिवर्तन को लागू करने के लिए फिर से खोलें</string>
   <!-- Backup Transport selection settings menu and activity title -->
-  <string name="backup_transport_setting_label">Change backup provider</string>
-  <string name="backup_transport_title">Select backup provider</string>
+  <string name="backup_transport_setting_label">बैकअप प्रदाता बदलें</string>
+  <string name="backup_transport_title">बैकअप प्रदाता चुनें</string>
   <!-- Black theme -->
-  <string name="system_black_theme_title">Use black theme</string>
-  <string name="system_black_theme_summary">Force black background colors</string>
+  <string name="system_black_theme_title">काले थीम का उपयोग करें</string>
+  <string name="system_black_theme_summary">पार्श्वभूमि पे काला रंग मजबूर करे</string>
   <!-- Game Space -->
-  <string name="game_space_title">Game Space</string>
-  <string name="game_space_summary">Enhance your gaming experience</string>
+  <string name="game_space_title">गेम स्पेस</string>
+  <string name="game_space_summary">अपने गेमिंग अनुभव को बेहतर करें</string>
   <!-- Volume Steps Fragment -->
-  <string name="volume_steps_fragment_title">Volume steps</string>
-  <string name="volume_steps_summary">Customize volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Media</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
+  <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
+  <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
+  <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
+  <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
+  <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
+  <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
+  <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
+  <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
+  <string name="volume_steps_reset">रीसेट करें</string>
   <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_title">Wallpaper zoom effect</string>
+  <string name="wallpaper_zoom_effect_title">वॉलपेपर ज़ूम प्रभाव</string>
   <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
-  <string name="wallpaper_zoom_effect_summary">Zoom the wallpaper in order to show zoom-out depth animation. Wallpapers may suffer quality decrease</string>
+  <string name="wallpaper_zoom_effect_summary">वॉलपेपर ज़ूम-आउट डेप्थ एनिमेशन दिखाऐ। वॉलपेपर की गुणवत्ता में कमी आ सकती है</string>
   <!-- Arcane Idle Manager -->
-  <string name="arcane_idle_manager_title">Idle Manager</string>
-  <string name="arcane_idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+  <string name="arcane_idle_manager_title">निष्क्रिय प्रबंधक</string>
+  <string name="arcane_idle_manager_summary">डिवाइस के निष्क्रिय होने पर सभी गैर-आवश्यक प्रक्रियाओं को रोके</string>
   <!-- Ignore window secure -->
-  <string name="ignore_window_secure_title">Ignore window secure flags</string>
-  <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+  <string name="ignore_window_secure_title">विंडो सुरक्षित फ़्लैग को नज़रअंदाज़ करें</string>
+  <string name="ignore_window_secure_summary">यह सभी एप्लिकेशन के लिए स्क्रीनशॉट और स्क्रीन रिकॉर्ड सीमा को हटा देता है। आम तौर पर, विशेष अनुप्रयोगों को रिकॉर्ड में काले क्षेत्रों से बदल दिया जाता है। यह कुछ मामलों में सुविधाजनक हो सकता है लेकिन इससे गोपनीयता लीक हो सकती है। इस टॉगल को बदलने के बाद, परिवर्तन को प्रभावी करने के लिए आपको एप्लिकेशन को पुनरारंभ करने की आवश्यकता हो सकती है।</string>
   <!-- Data usage info in QS footer -->
-  <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
-  <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+  <string name="qs_footer_datausage_title">क्यूएस पादलेख में दैनिक डेटा उपयोग</string>
+  <string name="qs_footer_datausage_summary">क्विक सेटिंग फ़ुटर में दैनिक डेटा उपयोग सारांश प्रदर्शित करें</string>
   <!-- Strings for Native Code Debugging -->
-  <string name="native_debug_title">Enable native code debugging</string>
-  <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
+  <string name="native_debug_title">मूल कोड डिबगिंग सक्षम करें</string>
+  <string name="native_debug_summary">क्रैश और परमिट डिबगिंग मूल कोड से उपयोगी लॉग / बग रिपोर्ट उत्पन्न करें।</string>
   <!-- App lock -->
-  <string name="app_lock_title">App lock</string>
-  <string name="app_lock_summary_singular">1 application is protected</string>
-  <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> applications are protected</string>
-  <string name="app_lock_authentication_dialog_title">Unlock</string>
-  <string name="app_lock_packages_title">Protected apps</string>
-  <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-  <string name="app_lock_timeout_title">Auto lock timeout</string>
-  <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-  <string name="app_lock_notifications_title">Collapse notifications</string>
-  <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
-     </string>
-  <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-  <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
+  <string name="app_lock_title">ऐप लॉक</string>
+  <string name="app_lock_summary_singular">1 एप्लीकेशन सुरक्षित है</string>
+  <string name="app_lock_summary_plural"><xliff:g example="2" id="एप्लिकेशन की संख्या">%1$d</xliff:g> एप्लीकेशंस सुरक्षित हैं</string>
+  <string name="app_lock_authentication_dialog_title">अनलॉक करें</string>
+  <string name="app_lock_packages_title">सुरक्षित ऐप्स</string>
+  <string name="app_lock_packages_summary">बायोमेट्रिक्स या डिवाइस क्रेडेंशियल के साथ सुरक्षित करने के लिए ऐप्स चुनें</string>
+  <string name="app_lock_timeout_title">ऑटो लॉक का समय</string>
+  <string name="app_lock_timeout_summary">वह समयावधि जिसके बाद में अनलॉक किया गया ऐप वापिस लॉक हो जाना चाहिए</string>
+  <string name="app_lock_notifications_title">नोटिफिकेशन संक्षिप्त करें</string>
+  <string name="app_lock_notifications_summary">लॉक होने पर चयनित ऐप्स के लिए नोटिफिकेशन छिपी और संक्षिप्त हो जाएगी।
+शीर्ष सूचनाएँ स्वतः अक्षम हो जाएँगी।     </string>
+  <string name="app_lock_notifications_disabled_summary">पहले किसी एप्लिकेशन को सुरक्षित करे</string>
+  <string name="app_lock_footer_text">टाइमआउट के बाद बबल्स अपने आप खारिज हो जाएंगे</string>
   <!-- Screen setting option title for the item to take you to the stock security screen -->
-  <string name="aosp_security_settings_title">Stock lock options</string>
+  <string name="aosp_security_settings_title">स्टॉक लॉक विकल्प</string>
   <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
-  <string name="aosp_security_settings_summary">Set App lock, SIM card lock, credential storage lock</string>
+  <string name="aosp_security_settings_summary">ऐप लॉक, सिम कार्ड लॉक, क्रेडेंशियल स्टोरेज लॉक सेट करें</string>
 </resources>
