@@ -43,4 +43,8 @@
 
     <!-- About device screen, VoidUI Release Version -->
     <string name="voidui_release_version">VoidUI Release Version</string>
+
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
+    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
 </resources>
