@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Người duy trì</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian khuyết</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">Cử chỉ toàn màn hình</string>
+    <string name="fullscreen_gestures_summary">Ẩn thanh điều hướng và không gian bàn phím</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Chiều dài thanh cử chỉ</string>
+    <string name="short_label">Ngắn</string>
+    <string name="long_label">Dài</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Nền tảng</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Tổng số RAM khả dụng</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Âm thanh chụp màn hình</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Không gian trò chơi</string>
+    <string name="game_space_summary">Cải thiện trải nghiệm chơi game</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Phiên bản phát hành Voidui</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Hiện biểu tượng kiểu Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Hiện biểu tượng kiểu Wi-Fi trong tín hiệu Wi-Fi</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Màu đen tinh khiết</string>
+    <string name="black_bg_summary">Nền đen thuần khiết cho chủ đề tối</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Các bước âm lượng</string>
+    <string name="volume_steps_summary">Tùy chỉnh các bước âm lượng</string>
+    <string name="volume_steps_alarm_title">Các bước âm lượng: Báo thức</string>
+    <string name="volume_steps_dtmf_title">Các bước âm lượng: DTMF</string>
+    <string name="volume_steps_music_title">Các bước âm lượng: Media</string>
+    <string name="volume_steps_notification_title">Các bước âm lượng: Thông báo</string>
+    <string name="volume_steps_ring_title">Các bước âm lượng: Chuông báo</string>
+    <string name="volume_steps_system_title">Các bước âm lượng: Hệ thống</string>
+    <string name="volume_steps_voice_call_title">Các bước âm lượng: Cuộc gọi thoại</string>
+    <string name="volume_steps_reset">Thiết lập lại</string>
+    <!-- App lock -->
+    <string name="app_lock_title">Khoá ứng dụng</string>
+    <string name="app_lock_summary_singular">1 ứng dụng được bảo vệ</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> ứng dụng được bảo vệ</string>
+    <string name="app_lock_authentication_dialog_title">Mở khoá</string>
+    <string name="app_lock_packages_title">Các ứng dụng được bảo vệ</string>
+    <string name="app_lock_packages_summary">Chọn các ứng dụng để bảo vệ bằng sinh trắc học hoặc thông tin đăng nhập thiết bị</string>
+    <string name="app_lock_timeout_title">Hẹn giờ tự động khóa</string>
+    <string name="app_lock_timeout_summary">Khoảng thời gian mà sau đó ứng dụng đã mở khóa trong nền sẽ bị khóa</string>
+    <string name="app_lock_notifications_title">Thu gọn thông báo</string>
+    <string name="app_lock_notifications_summary">Nội dung thông báo sẽ bị ẩn và thu gọn đối với các ứng dụng đã chọn khi chúng bị khóa.
+           Thông báo cảnh báo sẽ tự động bị tắt.    </string>
+    <string name="app_lock_notifications_disabled_summary">Bảo vệ một ứng dụng trước tiên</string>
+    <string name="app_lock_footer_text">Bong bóng sẽ tự động bị loại bỏ sau khi hết thời gian chờ</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_apps">Tìm ứng dụng</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">Tùy chọn phương thức khóa</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">Đặt ứng dụng mở khóa màn hình, khóa thẻ SIM, khóa bộ nhớ thông tin xác thực</string>
+    <!-- reTicker -->
+    <string name="reticker_title">Thông báo nổi kiểu mới</string>
+    <string name="reticker_summary">Thay thế thông báo nổi bằng thông báo kiểu mới được thiết kế mỏng và chiếm ít diện tích hơn</string>
+    <string name="reticker_colored_title">Sử dụng nền màu ứng dụng</string>
+    <string name="reticker_colored_summary">Thay thế màu nền thông báo bằng màu chính của ứng dụng thông báo</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Sử dụng dữ liệu hàng ngày ở cuối QS</string>
+    <string name="qs_footer_datausage_summary">Hiển thị tóm tắt sử dụng dữ liệu hàng ngày cuối cài đặt nhanh</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Bỏ qua cờ cửa sổ an toàn</string>
+    <string name="ignore_window_secure_summary">Loại bỏ giới hạn ảnh chụp màn hình và ghi màn hình cho tất cả các ứng dụng. Điều này có thể thuận tiện trong một số trường hợp nhưng có thể dẫn đến rò rỉ quyền riêng tư.</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">Hiệu ứng thu phóng ảnh nền</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">Phóng to ảnh nền để hiện hoạt ảnh độ sâu. Hình nền có thể bị giảm chất lượng</string>
+</resources>

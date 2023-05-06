@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Gerätebetreuer</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Vollbild Apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Apps zwingen, die Notch zu ignorieren</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">Vollbild-Gesten</string>
+    <string name="fullscreen_gestures_summary">Navigationsleisten-Pille und Tastaturbereich ausblenden</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Länge der angedeuteten Navigationsleiste</string>
+    <string name="short_label">Kurz</string>
+    <string name="long_label">Lang</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Plattform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Insgesamt verfügbarer RAM</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Ton bei Bildschirmfoto</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Antippen, um Info anzuzeigen</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Spielmodus</string>
+    <string name="game_space_summary">Spielerlebnis verbessern</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI Release Version</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Wi-Fi-Symbol anzeigen</string>
+    <string name="show_wifi_standard_icon_summary">Wi-Fi-Typ in Wi-Fi-Signalanzeige anzeigen</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Reines schwarz</string>
+    <string name="black_bg_summary">Reiner schwarzer Hintergrund für dunkles Design</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Lautstärkestufen</string>
+    <string name="volume_steps_summary">Lautstärkestufen anpassen</string>
+    <string name="volume_steps_alarm_title">Lautstärkestufen: Wecker</string>
+    <string name="volume_steps_dtmf_title">Lautstärkestufen: DTMF</string>
+    <string name="volume_steps_music_title">Lautstärkestufen: Medien</string>
+    <string name="volume_steps_notification_title">Lautstärkestufen: Benachrichtigungen</string>
+    <string name="volume_steps_ring_title">Lautstärkestufen: Klingelton</string>
+    <string name="volume_steps_system_title">Lautstärkestufen: System</string>
+    <string name="volume_steps_voice_call_title">Lautstärkestufen: Sprachanruf</string>
+    <string name="volume_steps_reset">Zurücksetzen</string>
+    <!-- App lock -->
+    <string name="app_lock_title">App-Sperre</string>
+    <string name="app_lock_summary_singular">1 App ist geschützt</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> Apps sind geschützt</string>
+    <string name="app_lock_authentication_dialog_title">Entsperren</string>
+    <string name="app_lock_packages_title">Geschützte Apps</string>
+    <string name="app_lock_packages_summary">Apps auswählen, die mittels biometrischer oder konventioneller Eingaben geschützt werden sollen</string>
+    <string name="app_lock_timeout_title">Zeit bis zur automatischen Sperrung</string>
+    <string name="app_lock_timeout_summary">Dauer, nach der eine entsperrte App im Hintergrund wieder gesperrt wird</string>
+    <string name="app_lock_notifications_title">Benachrichtigungen zusammenklappen</string>
+    <string name="app_lock_notifications_summary">          Der Inhalt von Benachrichtigungen wird für ausgewählte Apps ausgeblendet und eingeklappt, wenn sie gesperrt sind.
+          Heads-up-Benachrichtigungen werden automatisch deaktiviert.
+     </string>
+    <string name="app_lock_notifications_disabled_summary">Schützen Sie zuerst eine Anwendung</string>
+    <string name="app_lock_footer_text">Benachrichtigungsblasen werden nach Ablauf der Zeit automatisch gelöscht</string>
+    <string name="search">Suchen</string>
+    <string name="search_apps">Apps durchsuchen</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">Optionen für Displaysperre</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">App-Sperre, SIM-Karten-Sperre, Anmeldedaten-Sperre einstellen</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Heads-up-Benachrichtigung durch schlanke und weniger invasive Version des neu gestalteten Tickers ersetzen</string>
+    <string name="reticker_colored_title">Farbigen Hintergrund der App verwenden</string>
+    <string name="reticker_colored_summary">Ersetzt die „reTicker“-Hintergrundfarbe durch die primäre Farbe der benachrichtigenden App</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Tägliche Datennutzung in QS-Fußzeile</string>
+    <string name="qs_footer_datausage_summary">Zusammenfassung der täglichen Datennutzung in der Fußzeile der Schnelleinstellungen anzeigen</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Flagge für sicheres Fenster ignorieren</string>
+    <string name="ignore_window_secure_summary">Entfernen Sie die Beschränkungen für Screenshots und Bildschirmaufzeichnungen für alle Anwendungen. Dies kann in manchen Fällen praktisch sein, kann aber zu Lecks in der Privatsphäre führen.</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">Hintergrund Zoom-Effekt</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">Vergrößern Sie das Hintergrundbild, um die Animation mit Zoom-out-Tiefe anzuzeigen. Hintergrundbilder können unter Qualitätsverlust leiden</string>
+</resources>

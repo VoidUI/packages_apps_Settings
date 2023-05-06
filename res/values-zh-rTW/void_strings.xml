@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">VoidUI 管理員</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">谷歌應用商店
+應用資料：如果應用是用戶安裝的，打開谷歌應該商店</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏應用</string>
+    <string name="display_cutout_force_fullscreen_summary">應用強制忽略屏幕開孔</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">全屏手勢</string>
+    <string name="fullscreen_gestures_summary">隱藏屏幕底部導航條</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">導航條長度</string>
+    <string name="short_label">短</string>
+    <string name="long_label">長</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">設備平台</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">總計可用內存</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">截圖聲音</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">點按即可顯示信息</string>
+    <!-- Game Space -->
+    <string name="game_space_title">遊戲空間</string>
+    <string name="game_space_summary">增強您的遊戲體驗</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 發布版本</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">顯示 Wi-Fi 類型圖標</string>
+    <string name="show_wifi_standard_icon_summary">在 Wi-Fi 信號指示器中顯示 Wi-Fi 類型</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">純黑色</string>
+    <string name="black_bg_summary">深色主題的純黑色背景</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">音量級別</string>
+    <string name="volume_steps_summary">自定義音量階數</string>
+    <string name="volume_steps_alarm_title">音量級別：鬧鐘</string>
+    <string name="volume_steps_dtmf_title">音量級別：雙音多頻</string>
+    <string name="volume_steps_music_title">音量級別：媒體</string>
+    <string name="volume_steps_notification_title">音量級別：通知</string>
+    <string name="volume_steps_ring_title">音量級別: 鈴聲</string>
+    <string name="volume_steps_system_title">音量級別：系統</string>
+    <string name="volume_steps_voice_call_title">音量級別：語音通話</string>
+    <string name="volume_steps_reset">重置</string>
+    <!-- App lock -->
+    <string name="app_lock_title">應用鎖</string>
+    <string name="app_lock_summary_singular">1 個應用程序受到保護</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> 應用程序受到保護</string>
+    <string name="app_lock_authentication_dialog_title">解鎖</string>
+    <string name="app_lock_packages_title">受保護的應用</string>
+    <string name="app_lock_packages_summary">選擇要使用生物識別或設備憑據保護的應用</string>
+    <string name="app_lock_timeout_title">超時自動鎖定</string>
+    <string name="app_lock_timeout_summary">已解鎖的應用在後台重新上鎖的時間</string>
+    <string name="app_lock_notifications_title">折疊通知</string>
+    <string name="app_lock_notifications_summary">鎖定選定應用時，通知內容將被隱藏和折疊。
+          浮動通知將被自動禁用。</string>
+    <string name="app_lock_notifications_disabled_summary">先選擇一個應用保護</string>
+    <string name="app_lock_footer_text">超時後氣泡會自動消失</string>
+    <string name="search">搜索</string>
+    <string name="search_apps">搜索應用程序</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">原生鎖定選項</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">設置應用鎖定、 SIM 卡鎖定、 憑據存儲鎖</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">以更精簡、更無侵入性的方式來取代傳統彈出式通知</string>
+    <string name="reticker_colored_title">背景採用應用程式主色調</string>
+    <string name="reticker_colored_summary">將 reTicker 背景色替換為通知應用的主色</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">在快速設置的底部顯示每日數據使用情況</string>
+    <string name="qs_footer_datausage_summary">在快速設置的底部顯示流量使用情況</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">忽略安全窗口標誌</string>
+    <string name="ignore_window_secure_summary">刪除所有應用程序的屏幕截圖和屏幕記錄限制。這在某些情況下可能很方便，但可能會導致隱私洩露。</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">壁紙縮放效果</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">縮放壁紙以展示縮小深度動畫。壁紙質量可能降低</string>
+</resources>

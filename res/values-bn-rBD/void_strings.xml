@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">যন্ত্রের মেইনটেইনার</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">গুগল প্লে</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">পূর্ণ স্ক্রিন অ্যাপসমূহ</string>
+    <string name="display_cutout_force_fullscreen_summary">অ্যাপ্লিকেশনগুলিকে নচ উপেক্ষা করতে বাধ্য করুন</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">পূর্ণ পর্দা অঙ্গভঙ্গি</string>
+    <string name="fullscreen_gestures_summary">কীবোর্ড এবং ন্যাভিগেশন পিল লুকান</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">পিলের দৈর্ঘ্য</string>
+    <string name="short_label">সংক্ষিপ্ত</string>
+    <string name="long_label">লম্বা</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">প্ল্যাটফর্ম</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">মোট উপলব্ধ র‌্যাম</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">স্ক্রিনশটের আওয়াজ</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">তথ্য দেখাতে আলতো চাপুন</string>
+    <!-- Game Space -->
+    <string name="game_space_title">গেমের জায়গা</string>
+    <string name="game_space_summary">আপনার গেমিং অভিজ্ঞতা উন্নত করুন</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI মুক্তির ভার্সন</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">ওয়াই-ফাই টাইপ আইকন দেখান</string>
+    <string name="show_wifi_standard_icon_summary">Wi-Fi সংকেত সূচকে Wi-Fi প্রকার দেখান</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">খাঁটি কালো</string>
+    <string name="black_bg_summary">অন্ধকার থিমের জন্য খাঁটি কালো ব্যাকগ্রাউন্ড</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
+    <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
+    <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
+    <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
+    <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
+    <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
+    <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
+    <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
+    <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
+    <string name="volume_steps_reset">পুনরায় সেট করুন</string>
+    <!-- App lock -->
+    <string name="app_lock_title">অ্যাপ লক</string>
+    <string name="app_lock_summary_singular">১টি অ্যাপ্লিকেশন সুরক্ষিত</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> অ্যাপ্লিকেশন সুরক্ষিত</string>
+    <string name="app_lock_authentication_dialog_title">আনলক</string>
+    <string name="app_lock_packages_title">সুরক্ষিত অ্যাপগুলি</string>
+    <string name="app_lock_packages_summary">বায়োমেট্রিক্স দিয়ে রক্ষা করার জন্য অ্যাপগুলি নির্বাচন করুন</string>
+    <string name="app_lock_timeout_title">অটো লক টাইমআউট</string>
+    <string name="app_lock_timeout_summary">সময়কাল যার পরে ব্যাকগ্রাউন্ডে একটি আনলক করা অ্যাপ লক করা উচিত</string>
+    <string name="app_lock_notifications_title">বিজ্ঞপ্তিগুলি আড়াল করুন</string>
+    <string name="app_lock_notifications_summary">বিজ্ঞপ্তি বিষয়বস্তু লুকানো হবে এবং নির্বাচিত অ্যাপ লক করা থাকলে তাদের জন্য ছোট করা হবে। হেড আপ বিজ্ঞপ্তি স্বয়ংক্রিয়ভাবে নিষ্ক্রিয় করা হবে.     </string>
+    <string name="app_lock_notifications_disabled_summary">প্রথমে একটি অ্যাপ্লিকেশন রক্ষা করুন</string>
+    <string name="app_lock_footer_text">টাইমআউটের পরে বুদবুদগুলি স্বয়ংক্রিয়ভাবে বাতিল হয়ে যাবে</string>
+    <string name="search">খুজুন</string>
+    <string name="search_apps">অ্যাপ খুঁজুন</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">স্টক লক অপশন</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">অ্যাপ লক, সিম কার্ড লক, শংসাপত্র স্টোরেজ লক সেট করুন</string>
+    <!-- reTicker -->
+    <string name="reticker_title">রি-টিকার</string>
+    <string name="reticker_summary">চিকন ও কম আক্রমনাত্মক নতুন রূপের রি টিকার দ্বারা হেডস আপ নোটিফিকেশন প্রতিস্থাপন করুন</string>
+    <string name="reticker_colored_title">অ্যাপ এর রঙের ব্যাকগ্রাউন্ড ব্যাবহার করুন</string>
+    <string name="reticker_colored_summary">রি টিকারের ব্যাকগ্রাউন্ড রঙ অ্যাপ এর নোটিফিকেশনের প্রধান রঙ দ্বারা প্রতিস্থাপন করুন</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">QS ফুটারে দৈনিক ডেটা ব্যবহার</string>
+    <string name="qs_footer_datausage_summary">Qs সেটিংস ফুটারে দৈনিক ডেটা ব্যবহারের সারাংশ প্রদর্শন করুন</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">নিরাপদ উইন্ডো পতাকা উপেক্ষা করুন</string>
+    <string name="ignore_window_secure_summary">সমস্ত অ্যাপের জন্য স্ক্রিনশট এবং স্ক্রিন রেকর্ড সীমা সরান। এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে কিন্তু গোপনীয়তা ফাঁস হতে পারে।</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">ওয়ালপেপার জুম ইফেক্ট</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">জুম-আউট অ্যানিমেশন দেখানোর জন্য ওয়ালপেপার জুম করুন। ওয়ালপেপারের মান হ্রাস হতে পারে</string>
+</resources>

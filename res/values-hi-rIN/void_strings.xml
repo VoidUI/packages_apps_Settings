@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">उपकरण अनुरक्षक</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">गूगल प्ले</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रीन एप्लिकेशन</string>
+    <string name="display_cutout_force_fullscreen_summary">ऐप्स को नॉच स्पेस को नज़रअंदाज़ करने के लिए मजबूर करें</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">फुल स्क्रीन जेस्चर</string>
+    <string name="fullscreen_gestures_summary">नेवबार पिल और कीबोर्ड स्पेस छुपाएं</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">पिल की लंबाई</string>
+    <string name="short_label">छोटा</string>
+    <string name="long_label">लंबी</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">प्लैटफ़ॉर्म</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">कुल उपलब्ध रेम</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">स्क्रीनशॉट ध्वनि</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">जानकारी देखने के लिए दबाएं</string>
+    <!-- Game Space -->
+    <string name="game_space_title">गेम स्पेस</string>
+    <string name="game_space_summary">अपने गेमिंग अनुभव को बेहतर करें</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">वॉयडयूआई रिलीज़ वर्शन</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">वाई-फाई प्रकार आइकन दिखाएं</string>
+    <string name="show_wifi_standard_icon_summary">वाई-फाई सिग्नल इंडिकेटर में वाई-फाई प्रकार दिखाएं</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">शुद्ध काल</string>
+    <string name="black_bg_summary">गहरी थीम के लिए शुद्ध काली पृष्ठभूमि</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">वॉल्यूम स्टेप्स</string>
+    <string name="volume_steps_summary">वॉल्यूम चरणों को अनुकूलित करें</string>
+    <string name="volume_steps_alarm_title">ध्वनि स्टेप्स: अलार्म</string>
+    <string name="volume_steps_dtmf_title">ध्वनि स्टेप्स: DTMF</string>
+    <string name="volume_steps_music_title">ध्वनि स्तर: मीडिया</string>
+    <string name="volume_steps_notification_title">ध्वनि स्टेप्स: नोटिफिकेशन</string>
+    <string name="volume_steps_ring_title">ध्वनि स्टेप्स: रिंगर</string>
+    <string name="volume_steps_system_title">ध्वनि स्टेप्स: सिस्टम</string>
+    <string name="volume_steps_voice_call_title">ध्वनि स्टेप्स: वॉयस कॉल</string>
+    <string name="volume_steps_reset">रीसेट करें</string>
+    <!-- App lock -->
+    <string name="app_lock_title">ऐप लॉक</string>
+    <string name="app_lock_summary_singular">1 एप्लीकेशन सुरक्षित है</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> एप्लिकेशन सुरक्षित हैं</string>
+    <string name="app_lock_authentication_dialog_title">अनलॉक करें</string>
+    <string name="app_lock_packages_title">सुरक्षित ऐप्स</string>
+    <string name="app_lock_packages_summary">बायोमेट्रिक्स या डिवाइस क्रेडेंशियल के साथ सुरक्षित करने के लिए ऐप्स चुनें</string>
+    <string name="app_lock_timeout_title">ऑटो लॉक का समय</string>
+    <string name="app_lock_timeout_summary">वह समयावधि जिसके बाद में अनलॉक किया गया ऐप वापिस लॉक हो जाना चाहिए</string>
+    <string name="app_lock_notifications_title">नोटिफिकेशन संक्षिप्त करें</string>
+    <string name="app_lock_notifications_summary">लॉक होने पर चयनित ऐप्स के लिए नोटिफिकेशन छिपी और संक्षिप्त हो जाएगी।
+शीर्ष सूचनाएँ स्वतः अक्षम हो जाएँगी।     </string>
+    <string name="app_lock_notifications_disabled_summary">पहले किसी एप्लिकेशन को सुरक्षित करे</string>
+    <string name="app_lock_footer_text">टाइमआउट के बाद बबल्स अपने आप खारिज हो जाएंगे</string>
+    <string name="search">खोजें</string>
+    <string name="search_apps">ऐप्स खोजें</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">स्टॉक लॉक विकल्प</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">ऐप लॉक, सिम कार्ड लॉक, क्रेडेंशियल स्टोरेज लॉक सेट करें</string>
+    <!-- reTicker -->
+    <string name="reticker_title">रीटिकर</string>
+    <string name="reticker_summary">हेड्स-अप नोटिफिकेशन को पुन: डिज़ाइन किए गए पतले और कम वर्शन वाले टिकर बदलें</string>
+    <string name="reticker_colored_title">ऐप रंगीत बैकग्राउंड का प्रयोग करें</string>
+    <string name="reticker_colored_summary">नोटिफिकेशन ऐप के मुख्य रंग का उपयोग करके रीटिकर बैकग्राउंड रंग बदलें</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">क्यूएस पादलेख में दैनिक डेटा उपयोग</string>
+    <string name="qs_footer_datausage_summary">क्विक सेटिंग फ़ुटर में दैनिक डेटा उपयोग सारांश प्रदर्शित करें</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">सुरक्षित विंडो फ़्लैग को अनदेखा करें</string>
+    <string name="ignore_window_secure_summary">सभी ऐप्स के लिए स्क्रीनशॉट और स्क्रीनरिकॉर्ड सीमाएं हटाएं। यह कुछ मामलों में सुविधाजनक हो सकता है लेकिन इससे गोपनीयता भंग हो सकती है।</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">वॉलपेपर ज़ूम प्रभाव</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">वॉलपेपर ज़ूम-आउट डेप्थ एनिमेशन दिखाऐ। वॉलपेपर की गुणवत्ता में कमी आ सकती है</string>
+</resources>

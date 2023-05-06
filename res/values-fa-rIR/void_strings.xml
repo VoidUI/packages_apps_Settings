@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">توسعه دهنده دستگاه</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">فروشگاه گوگل</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">برنامه های تمام صفحه</string>
+    <string name="display_cutout_force_fullscreen_summary">اجبار برنامه ها برای نادیده گرفتن شکاف صفحه</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">حرکات تمام صفحه</string>
+    <string name="fullscreen_gestures_summary">مخفی کردن نوار پیمایش و فضای کیبورد</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">طول نوار پیمایش</string>
+    <string name="short_label">کوتاه</string>
+    <string name="long_label">طولانی</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">پلتفرم</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">مجموع رم در دسترس</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">صدای اسکرین‌شات</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">برای نمایش اطلاعات ضربه بزنید</string>
+    <!-- Game Space -->
+    <string name="game_space_title">فضای بازی</string>
+    <string name="game_space_summary">تجربه بازی خود را بهبود بدهید</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">نسخه انتشار VoidUI</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">نمایش نوع آیکون Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">نمایش نوع و نمایشگر سیگنال Wi-Fi</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">مشکی خالص</string>
+    <string name="black_bg_summary">پس زمینه سیاه خالص برای تم تیره</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">مراحل حجم</string>
+    <string name="volume_steps_summary">سفارشی کردن مراحل حجم</string>
+    <string name="volume_steps_alarm_title">مراحل ولوم: زنگ هشدار</string>
+    <string name="volume_steps_dtmf_title">مراحل حجم: DTMF</string>
+    <string name="volume_steps_music_title">مراحل حجم: رسانه</string>
+    <string name="volume_steps_notification_title">مراحل حجم: اعلان</string>
+    <string name="volume_steps_ring_title">مراحل حجم: زنگ</string>
+    <string name="volume_steps_system_title">مراحل حجم: سیستم</string>
+    <string name="volume_steps_voice_call_title">مراحل صدا: تماس صوتی</string>
+    <string name="volume_steps_reset">بازنشانی</string>
+    <!-- App lock -->
+    <string name="app_lock_title">قفل برنامه</string>
+    <string name="app_lock_summary_singular">1 برنامه محافظت شده است</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> برنامه ها محافظت می شوند</string>
+    <string name="app_lock_authentication_dialog_title">باز کردن قفل</string>
+    <string name="app_lock_packages_title">برنامه های محافظت شده</string>
+    <string name="app_lock_packages_summary">برنامه هایی را برای محافظت با مشخصات بیومتریک یا دستگاه انتخاب کنید</string>
+    <string name="app_lock_timeout_title">مهلت قفل خودکار</string>
+    <string name="app_lock_timeout_summary">مدت زمانی که پس از آن یک برنامه قفل نشده در پس‌زمینه باید قفل شود</string>
+    <string name="app_lock_notifications_title">کوچک کردن اعلان‌ها</string>
+    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
+          Heads up notifications will be automatically disabled.
+     </string>
+    <string name="app_lock_notifications_disabled_summary">ابتدا از یک برنامه محافظت کنید</string>
+    <string name="app_lock_footer_text">حباب ها به طور خودکار پس از وقفه حذف می شوند</string>
+    <string name="search">جُستجو</string>
+    <string name="search_apps">جستجوی برنامه‌ها</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">گزینه های قفل سهام</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">قفل برنامه، قفل سیم کارت، قفل حافظه اطلاعات کاربری را تنظیم کنید</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">اعلان فوری را با نسخه باریک و کمتر تهاجمی ticker بازطراحی شده جایگزین کنید</string>
+    <string name="reticker_colored_title">استفاده از پس زمینه رنگی برنامه</string>
+    <string name="reticker_colored_summary">جایگزین کردن رنگ پس زمینه reTicker با استفاده از رنگ اصلی اعلان برنامه</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">مصرف روزانه داده در فوتر QS</string>
+    <string name="qs_footer_datausage_summary">نمایش خلاصه مصرف روزانه داده در فوتر تنظیمات سریع</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">پرچم پنجره امن را نادیده بگیرید</string>
+    <string name="ignore_window_secure_summary">محدودیت های اسکرین شات و ضبط صفحه را برای همه برنامه ها حذف کنید. این می تواند در برخی موارد راحت باشد اما ممکن است منجر به نشت حریم خصوصی شود.</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">جلوه زوم کاغذ دیواری</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">تصویر زمینه را بزرگنمایی کنید تا انیمیشن عمق زوم را نشان دهید. کاغذ دیواری ها ممکن است دچار کاهش کیفیت شوند</string>
+</resources>

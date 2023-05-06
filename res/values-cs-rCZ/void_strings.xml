@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Správce zařízení</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplikace na celou obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Nutit aplikace, aby ignorovaly výřez</string>
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">Gesta na celou obrazovku</string>
+    <string name="fullscreen_gestures_summary">Skrýt prostor pro pilulku a klávesnici</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Délka výplně</string>
+    <string name="short_label">Krátký</string>
+    <string name="long_label">Dlouhá</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platforma</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Celková dostupná RAM</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Zvuk snímku obrazovky</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Klepnutím zobrazíte informace</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Herní prostor</string>
+    <string name="game_space_summary">Vylepšete si herní zážitek</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Verze vydání VoidUI</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Zobrazit ikonu typu Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Zobrazit typ Wi-Fi v indikátoru Wi-Fi</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Čistě černá</string>
+    <string name="black_bg_summary">Čistě černé pozadí pro tmavý motiv</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Objemové kroky</string>
+    <string name="volume_steps_summary">Přizpůsobení kroků hlasitosti</string>
+    <string name="volume_steps_alarm_title">Kroky hlasitosti: Alarm</string>
+    <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
+    <string name="volume_steps_music_title">Kroky hlasitosti: Média</string>
+    <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
+    <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
+    <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
+    <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasový hovor</string>
+    <string name="volume_steps_reset">Restartovat</string>
+    <!-- App lock -->
+    <string name="app_lock_title">Zámek aplikace</string>
+    <string name="app_lock_summary_singular">1 aplikace je chráněna</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> aplikace jsou chráněny</string>
+    <string name="app_lock_authentication_dialog_title">Odemknutí stránky</string>
+    <string name="app_lock_packages_title">Chráněné aplikace</string>
+    <string name="app_lock_packages_summary">Vyberte aplikace, které chcete chránit pomocí biometrických údajů nebo pověření zařízení.</string>
+    <string name="app_lock_timeout_title">Časový limit automatického uzamčení</string>
+    <string name="app_lock_timeout_summary">Doba, po které by měla být odemčená aplikace na pozadí uzamčena.</string>
+    <string name="app_lock_notifications_title">Sbalit oznámení</string>
+    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
+          Heads up notifications will be automatically disabled.
+     </string>
+    <string name="app_lock_notifications_disabled_summary">Nejprve ochraňte aplikaci</string>
+    <string name="app_lock_footer_text">Bubliny se po uplynutí časového limitu automaticky uvolní.</string>
+    <string name="search">Hledat</string>
+    <string name="search_apps">Hledat aplikace</string>
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">Možnosti uzamčení zásob</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">Nastavení zámku aplikací, zámku karty SIM a zámku úložiště pověření</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Nahrazení upozornění v hlavním panelu štíhlou a méně invazivní verzí přepracovaného tickeru</string>
+    <string name="reticker_colored_title">Použití barevného pozadí aplikace</string>
+    <string name="reticker_colored_summary">Nahrazení barvy pozadí reTickeru pomocí hlavní barvy aplikace oznámení</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Denní využití dat v zápatí QS</string>
+    <string name="qs_footer_datausage_summary">Zobrazení denního přehledu využití dat v zápatí rychlého nastavení</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorování příznaku zabezpečeného okna</string>
+    <string name="ignore_window_secure_summary">Odstranění omezení pro pořizování snímků obrazovky a záznamů obrazovky pro všechny aplikace. To může být v některých případech výhodné, ale může to vést k úniku citlivých dat.</string>
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">Efekt zvětšení tapety</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_summary">Přiblížení tapety za účelem zobrazení animace hloubky zvětšení. U tapet může dojít ke snížení kvality</string>
+</resources>
